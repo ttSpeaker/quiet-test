@@ -1,0 +1,29 @@
+{
+  "name": "quiet",
+  "version": "1.0.0",
+  "description": "Quiet.js\r ===========",
+  "main": "quiet-emscripten.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quiet/quiet-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quiet/quiet-js/issues"
+  },
+  "dependencies": {
+    "express": "^4.12.3",
+    "morgan": "^1.5.2",
+    "path": "^0.11.14"
+  },
+  "homepage": "https://github.com/quiet/quiet-js#readme"
+}
