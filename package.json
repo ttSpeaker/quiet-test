@@ -21,7 +21,7 @@
     "url": "https://github.com/quiet/quiet-js/issues"
   },
   "dependencies": {
-    "express": "^4.12.3",
+    "express": "^4.18.2",
     "morgan": "^1.5.2",
     "path": "^0.11.14"
   },
